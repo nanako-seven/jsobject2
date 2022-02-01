@@ -1,1 +1,1 @@
-from _jsobject2 import JsObject
+from ._jsobject2 import JsObject
